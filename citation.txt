@@ -1,0 +1,8 @@
+@article{REPO-319,
+    author = "Meraner, Andrea and Ebel, Patrick and Zhu, Xiao Xiang and Schmitt, Michael",
+    journal = "ISPRS Journal of Photogrammetry and Remote Sensing",
+    pages = "333--346",
+    title = "{Cloud Removal in Sentinel-2 Imagery Using A Deep Residual Neural Network and SAR-Optical Data Fusion}",
+    volume = "166",
+    year = "2020"
+}
