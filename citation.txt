@@ -1,4 +1,4 @@
-@article{REPO-319,
+@article{REPO-318,
     author = "Meraner, Andrea and Ebel, Patrick and Zhu, Xiao Xiang and Schmitt, Michael",
     journal = "ISPRS Journal of Photogrammetry and Remote Sensing",
     pages = "333--346",
